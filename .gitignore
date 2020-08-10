@@ -1,0 +1,15 @@
+*.log
+target
+*iml
+*pyc
+.idea/
+.idea
+rocksdb_simple_example/
+cmake-build-debug/
+build/
+.DS_Store
+.classpath
+.factorypath
+.project
+.settings/
+lib/
